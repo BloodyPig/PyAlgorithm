@@ -11,7 +11,7 @@
 3. 针对所有的元素重复以上的步骤，除了最后一个。
 4. 持续每次对越来越少的元素重复上面的步骤，直到没有任何一对数字需要比较。
 
-![](Bubble_sort_animation.gif)
+![](./Bubble_sort_animation.gif)
 
 ## 2、代码
 
