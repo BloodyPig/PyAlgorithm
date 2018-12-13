@@ -4,7 +4,6 @@
 
 - 稳定排序
 
-- 内部排序
 - 时间复杂度：![O(n^{2})](https://wikimedia.org/api/rest_v1/media/math/render/svg/6cd9594a16cb898b8f2a2dff9227a385ec183392)
 
 **描述：**
